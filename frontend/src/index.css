@@ -2,4 +2,7 @@
 
 :root {
   color-scheme: dark;
+  display: block;
+  position: fixed;
+  inset: 0;
 }
